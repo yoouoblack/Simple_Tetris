@@ -8,6 +8,8 @@ public class Main {
 		JFrame window = new JFrame("Simple Tetris");	//제목창 설정
 		window.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
 		window.setResizable(false);
+
+		//test 코드 2번째 
 		
 		//GamePanel 창을 추가
 		//Add GamePanel to the window
